@@ -1,2 +1,2 @@
-# sup_trend_analysis
-Predict the increase/decrease of popularity of a sport discipline based on data from Google Trends.
+# SUP trend analysis
+Predict the increase/decrease of popularity of a sport discipline (Stand Up Paddling) based on data from Google Trends.
